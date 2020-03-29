@@ -8,5 +8,8 @@ This project was created on the following:
 - react-select
 - recharts
 
+# Demo
+http://corona.mustafakucuk.net/
+
 # API Link
-http://covid19api.com/
+http://covid19api.com
