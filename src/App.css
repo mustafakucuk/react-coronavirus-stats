@@ -1,0 +1,48 @@
+html, body, #root, #root > div {
+    height: 100%;
+    margin: 0;
+}
+
+
+.App {
+    /*background-color: #00a6a3;*/
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+  background-color: #00a6a3;
+
+}
+
+.stats-block {
+    background-color: #fff;
+    color: #00a6a3;
+    padding: 10px;
+    min-height: 70px;
+    border-bottom: 5px solid #00a6a3;
+    /*margin-bottom: 20px;*/
+}
+
+.stats-block:last-child {
+    border-bottom: none;
+}
+
+
+.block-title {
+    display: block;
+    width: 100%;
+    font-size: 20px;
+}
+
+.block-number {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.stats-area {
+    background-color: #fff;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
